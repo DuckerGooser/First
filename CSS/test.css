@@ -1,0 +1,121 @@
+a{
+  text-decoration: none;
+}
+h2{
+  color:#66BFBF;
+  font-weight: normal;
+}
+h3{
+  color: #11999E;
+}
+hr{
+  border: none;
+  border-top: dotted;
+  border-width: 10px;
+  color: #937DC2;
+  width: 15%
+
+}
+body{
+  text-align: center;
+  margin: 0;
+}
+
+/*-------------------------------------CLASS--------------------------*/
+.top{
+  position: relative;
+  padding-top: 100px;
+  text-align: center;
+}
+.top-cloud{
+  position: absolute;
+  left:400px;
+  top:40px;
+}
+
+.bottom-cloud{
+  position: absolute;
+  bottom:410px;
+  right:400px;}
+
+.subtext{
+
+font-family: 'Mukta', sans-serif;
+font-size: 2.5rem;
+
+}
+
+.title {
+  line-height: 2;
+  font-size: 5.625rem;
+  font-weight: normal;
+  color: #66BFBF;
+  display:inline-block;
+  font-family: 'Dancing Script', cursive;
+
+}
+.middle{
+  text-align: center;
+}
+.bottom{
+
+  padding:40px;
+  background-color: #66BFBF;
+}
+.sad{
+  border-radius:100%;
+  width: 10%;
+  height: 10%;
+}
+.chess{
+  margin-right: 30px;
+  float: left;
+  width: 25%;
+  height:25%;
+}
+.skill-row{
+  line-height: 2;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  width: 50%;
+}
+.phone{
+  margin-left: 30px;
+  float: right;
+  height: 25%;
+  width: 25%;
+
+}
+.footer-link{
+  position: relative;
+  margin:50px 30px;
+  font-weight: normal;
+  font-family: 'Mukta', sans-serif;
+  color: #11999E;
+}
+
+.email{
+  margin:20px;
+}
+.submit-button{
+  height: 50px;
+  width: 150px;
+  background-color: #11999E;
+  border-style:solid;
+  border-radius: 8px;
+  color: #EAF6F6;
+  font-size: 1.125rem;
+  font-family: 'Mukta', sans-serif;
+  cursor: pointer;
+
+
+
+}
+.bottom-text{
+  position:relative;
+  top:20px;
+}
+.finish{
+  color:  #EAF6F6;
+  font-family: 'Mukta', sans-serif;
+}
